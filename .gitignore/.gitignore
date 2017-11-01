@@ -1,0 +1,53 @@
+<html>
+    <head>
+      <title> 홈페이지</title>
+    </head>
+    <body>
+        <img src="leess.jpg">
+        <h1>abcd </h1>
+        
+        <hr color="green">
+        <p><font size="4" color="red">  
+        <a href = "text1.html"> [과 제 1] </a>
+        &nbsp; <a href = "text2.html">[과 제 2]</a> 
+        &nbsp; <a href = "text3.html">[과제 3]</a>
+        &nbsp; <a href = "text4.html">[과제 4]</a>
+        &nbsp; <a href = "text5.html">[과제 5]</a>
+        </font></p>
+        <hr color="green">
+        <ol>
+          <li> 소개
+          <ul><font type="circle" size="2" >
+          <li>출생지   : 대한민국
+          <li>생년월일 : 1900년 12월 14일
+          <li>현 직업  : 대학생
+          </ul>
+          
+          <br><br>
+          
+        
+        
+            <li> 학력
+                <ul><font type="circle" size="2" >
+                <li>군대 입대
+                <li>군대 만기 전역
+                </ul>
+               
+                <br><br> 
+                
+       
+            <li> 취미 및 특기
+                <ul><font type="circle" size="2">    
+                <li>컴퓨터 게임
+                <li>사진촬영
+                <li>등산 및 여행
+                </ul>
+               
+                <br><br>     
+                 </ol>
+                
+  
+    </body> 
+</html>
+
+
